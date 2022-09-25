@@ -1,4 +1,19 @@
 public class Product {
+
+    public Product(int id, String name, String description, double price, int stockAmount){
+        System.out.println("Yapıcı blok çalıştı");
+        _id = id;
+        _name = name;
+        _description = description;
+        _price = price;
+        _stockAmount = stockAmount;
+
+    }
+
+    public Product(){
+
+    }
+
     //attribute - field
     private int _id;
     private String _name;

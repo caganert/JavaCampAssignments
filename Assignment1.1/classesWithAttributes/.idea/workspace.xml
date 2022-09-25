@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc3abe46-2cde-4b8e-8070-6c2ebf7600d1" name="Changes" comment="" />
+    <list default="true" id="cc3abe46-2cde-4b8e-8070-6c2ebf7600d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/Assignment1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/arkadasSayilar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/arkadasSayilar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/arkadasSayilar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/arkadasSayilar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/arkadasSayilar/arkadasSayilar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/arkadasSayilar/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/arraysDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/arraysDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/arraysDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/arraysDemo/arraysDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/arraysDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/conditionals/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/conditionals/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/conditionals/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/conditionals/conditionals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/conditionals/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/dataTypes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/dataTypes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/dataTypes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/dataTypes/dataTypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/dataTypes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/loopDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/loopDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/loopDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/loopDemo/loopDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/loopDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/miniProjeAsalSayi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/miniProjeAsalSayi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/miniProjeAsalSayi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/miniProjeAsalSayi/miniProjeAsalSayi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/miniProjeAsalSayi/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/mukemmelSayi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/mukemmelSayi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/mukemmelSayi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/mukemmelSayi/mukemmelSayi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/mukemmelSayi/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/multiDimensionalArrayDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/multiDimensionalArrayDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/multiDimensionalArrayDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/multiDimensionalArrayDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/recapDemo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/recapDemo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/recapDemo1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/recapDemo1/recapDemo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/recapDemo1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/recapDemo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/recapDemo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/recapDemo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/recapDemo2/recapDemo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/recapDemo2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/sayiBulma/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/sayiBulma/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/sayiBulma/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/sayiBulma/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/sayiBulma/sayiBulma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/sayiBulma/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/sesliHarfler/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/sesliHarfler/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/sesliHarfler/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/sesliHarfler/sesliHarfler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/sesliHarfler/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/stringsDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/stringsDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/stringsDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/stringsDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/stringsDemo/stringsDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/switchDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/switchDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/switchDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/switchDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/switchDemo/switchDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/variables/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/variables/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/variables/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/variables/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.0/variables/variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaCampAssignments.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +101,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,9 +116,24 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "F:/Depo/Codes/IdeaProjects/JavaCamp/JavaCampAssignments/Assignment1.1/classesWithAttributes",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="classesWithAttributes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
