@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdf9e8f8-076c-4ae3-a3b5-d225afb4916a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../inheritance/inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../inheritance/src/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../inheritance/src/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../inheritance/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../inheritance/src/EmployeeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../inheritance/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../inheritance/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../inheritance/src/PersonManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritanceDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AskerKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KrediUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OgretmenKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TarimKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methodOverloading/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methodOverloading/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methodOverloading/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methodOverloading/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methodOverloading/methodOverloading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methodOverloading/src/DortIslem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methodOverloading/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../classesWithAttributes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classesWithAttributes/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classesWithAttributes/src/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/src/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classesWithAttributes/src/ProductManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="bdf9e8f8-076c-4ae3-a3b5-d225afb4916a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,14 +26,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

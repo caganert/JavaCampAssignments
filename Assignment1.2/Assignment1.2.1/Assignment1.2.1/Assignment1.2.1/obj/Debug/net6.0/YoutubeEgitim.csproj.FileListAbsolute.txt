@@ -1,0 +1,4 @@
+F:\Depo\Codes\IdeaProjects\JavaCamp\JavaCampAssignments\Assignment1.2\Assignment1.2.1\Assignment1.2.1\Assignment1.2.1\obj\Debug\net6.0\YoutubeEgitim.GeneratedMSBuildEditorConfig.editorconfig
+F:\Depo\Codes\IdeaProjects\JavaCamp\JavaCampAssignments\Assignment1.2\Assignment1.2.1\Assignment1.2.1\Assignment1.2.1\obj\Debug\net6.0\YoutubeEgitim.AssemblyInfoInputs.cache
+F:\Depo\Codes\IdeaProjects\JavaCamp\JavaCampAssignments\Assignment1.2\Assignment1.2.1\Assignment1.2.1\Assignment1.2.1\obj\Debug\net6.0\YoutubeEgitim.AssemblyInfo.cs
+F:\Depo\Codes\IdeaProjects\JavaCamp\JavaCampAssignments\Assignment1.2\Assignment1.2.1\Assignment1.2.1\Assignment1.2.1\obj\Debug\net6.0\YoutubeEgitim.csproj.CoreCompileInputs.cache
