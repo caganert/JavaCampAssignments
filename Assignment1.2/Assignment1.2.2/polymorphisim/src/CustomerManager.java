@@ -6,6 +6,6 @@ public class CustomerManager {
     }
     public void add(){
         System.out.println("Müşteri eklendi");
-        this.logger.Log("Log mesajı");
+        this.logger.log("Log mesajı");
     }
 }

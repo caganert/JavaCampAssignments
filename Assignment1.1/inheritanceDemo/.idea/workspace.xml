@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdf9e8f8-076c-4ae3-a3b5-d225afb4916a" name="Changes" comment="" />
+    <list default="true" id="bdf9e8f8-076c-4ae3-a3b5-d225afb4916a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.2/Assignment1.2.1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.2/Assignment1.2.1/.idea/Assignment1.2.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.2/Assignment1.2.1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.2/Assignment1.2.1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.2/Assignment1.2.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/Assignment1.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/business/CategoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/business/CourseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/business/TeacherManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/core/logging/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/core/logging/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/core/logging/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/core/logging/MailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/dataAccess/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/dataAccess/CourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/dataAccess/HibernateCategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/dataAccess/HibernateCourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/dataAccess/HibernateTeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/dataAccess/JdbcCategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/dataAccess/JdbcCourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/dataAccess/JdbcTeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/dataAccess/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/entities/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/entities/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/entities/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/entities/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignment1.3/Assignment1.3/src/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment1.2/Assignment1.2.2/polymorphisim/src/CustomerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment1.2/Assignment1.2.2/polymorphisim/src/CustomerManager.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,14 +60,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "F:/Depo/Codes/IdeaProjects/JavaCamp/JavaCamp/oop1",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
